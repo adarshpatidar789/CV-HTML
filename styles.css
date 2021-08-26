@@ -1,0 +1,22 @@
+/************************* Tag Selectors ********************************/
+body {
+  background-color: #C9E4C5;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 8%;
+  border-width: 8px;
+  border-color: darkseagreen;
+}
+h1,h3 {
+  color: #5F7A61;
+}
+
+/************************* Class Selectors ********************************/
+.name:hover {
+  background-color: white;
+}
+.heading{
+  color:#444941;
+}
